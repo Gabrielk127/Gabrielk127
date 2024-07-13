@@ -1,9 +1,12 @@
 <div style="position: relative;">
-  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Gabrielk127/6a956c51f0f2ca68899fda476e2dacfe/raw/99ddedfc5817a5335e76d0fcfcd2fae5e5b72a07/githubcard.svg" style="position: relative; margin-left: 20px; margin-top:40;"/>
+  <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/Gabrielk127/6a956c51f0f2ca68899fda476e2dacfe/raw/99ddedfc5817a5335e76d0fcfcd2fae5e5b72a07/githubcard.svg" style="position: relative; margin-left: 20px; margin-top:40;"/>
   <h1 align="left" style="border-bottom: none;">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Fernandes</h1>
   
   - 🔥 Junior Developer focused on improving my programming skills
-  - 🔭 I'm currently studying at: IFPR Londrina <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20" height="10"/>
+  - 🌱 I'm currently studying at: IFPR Londrina <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20" height="10"/>
+  - 🔭 I'm currently working on the project: [App Finance](https://github.com/Gabrielk127/AppFi)&nbsp;
+  - 📫 How to reach me: +55 (43) 99837-7239 
+
 
   <br><br>
 
@@ -29,6 +32,18 @@
   <h3>⚙️ GitHub Analytics</h3>
 
   <p align="left">
-    <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=vision-friendly-dark" alt="Gabriel's most languages"/>
+    <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=vision-friendly-dark" alt="Gabriel's most languages"/>
   </p>
 </div>
+
+<h3>Contact</h3> 
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gabriel-fernandes-920421204" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/gabrielk127" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
