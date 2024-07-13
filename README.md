@@ -1,16 +1,34 @@
-## Hi there 👋
+<div style="position: relative;">
+  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Gabrielk127/6a956c51f0f2ca68899fda476e2dacfe/raw/99ddedfc5817a5335e76d0fcfcd2fae5e5b72a07/githubcard.svg" style="position: relative; margin-left: 20px; margin-top:40;"/>
+  <h1 align="left" style="border-bottom: none;">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Fernandes</h1>
+  
+  - 🔥 Junior Developer focused on improving my programming skills
+  - 🔭 I'm currently studying at: IFPR Londrina <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20" height="10"/>
 
-<!--
-**Gabrielk127/Gabrielk127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br><br>
 
-Here are some ideas to get you started:
+  <h3>🛠 Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)
+
+  ![Styled-Components](https://img.shields.io/badge/-styledcomponents-05122A?style=flat&logo=styledcomponents)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+  <br><br>
+
+  <h3>⚙️ GitHub Analytics</h3>
+
+  <p align="left">
+    <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=vision-friendly-dark" alt="Gabriel's most languages"/>
+  </p>
+</div>
