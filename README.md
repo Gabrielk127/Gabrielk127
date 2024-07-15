@@ -1,7 +1,7 @@
 <div style="position: relative;">
   <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/Gabrielk127/6a956c51f0f2ca68899fda476e2dacfe/raw/99ddedfc5817a5335e76d0fcfcd2fae5e5b72a07/githubcard.svg" style="position: relative; top:20; margin-left: 20;"/>
   <h1 align="left" style="border-bottom: none;">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Fernandes</h1>
-    <br><br>
+  
 
   - 🔥 Junior Developer focused on improving my programming skills
   - 🌱 I'm currently studying at: IFPR Londrina <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20" height="10"/>
@@ -9,7 +9,7 @@
   - 📫 How to reach me: +55 (43) 99837-7239 
 
 
-  <br><br>
+
 
   <h3>🛠 Tech Stack</h3>
 
@@ -34,7 +34,7 @@
  <h3>⚙️ GitHub Analytics</h3>
 
   <p align="left">
-    <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=vision-friendly-dark" alt="Gabriel's most languages"/>
+    <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=dracula" alt="Gabriel's most languages"/>
   </p>
 </div>
 
