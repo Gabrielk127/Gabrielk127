@@ -4,8 +4,6 @@
   
 
   - 🔥 Junior Developer focused on improving my programming skills
-  - 🌱 I'm currently studying at: IFPR Londrina <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20" height="10"/>
-  - 🔭 I'm currently working on the project: [App Finance](https://github.com/Gabrielk127/AppFi)&nbsp;
   - 📫 How to reach me: +55 (43) 99837-7239 
 
 
@@ -29,13 +27,6 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-  <br><br>
-
- <h3>⚙️ GitHub Analytics</h3>
-
-  <p align="left">
-    <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielk127&layout=compact&theme=dracula" alt="Gabriel's most languages"/>
-  </p>
 </div>
 
 
